@@ -1,6 +1,6 @@
 # Recent Movies
 
-A web application developed using React, TypeScript, and Tailwind CSS, featuring user authentication with login and signup functionalities, a responsive dashboard, and toast notifications for user feedback.
+A web application developed using React, Javascript, and Tailwind CSS, shadcn library featuring user authentication with login and signup functionalities, a responsive dashboard, and toast notifications for user feedback.
 
 ## Table of Contents
 
@@ -10,27 +10,23 @@ A web application developed using React, TypeScript, and Tailwind CSS, featuring
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
   - [Running the Application](#running-the-application)
-- [Usage](#usage)
-- [Folder Structure](#folder-structure)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
 
 ## Features
 
 - **User Authentication**: Users can sign up and log in to access the dashboard.
 - **Responsive Design**: The application adapts to various screen sizes for a seamless user experience.
-- **Dashboard**: Access user profile and settings with a clean layout.
-- **Toast Notifications**: Alerts for successful login and logout actions using Sonner.
+- ** Used Shad-cn for toaste notification, button, inputs etc.
+- ** used formik for form handling
 
 ## Tech Stack
 
 - **Frontend**: 
   - React
-  - TypeScript
+  - Javascript
   - Tailwind CSS
-  - Sonner (for toast notifications)
-- **Routing**: React Router
+  - ShadCn
+  - React-Router-Dom
+  - Used Formik for form handling
 
 ## Getting Started
 
@@ -44,10 +40,10 @@ Make sure you have the following installed:
 ### Installation
 
 1. Clone the repository:
-   git clone https://github.com/yourusername/recent-movies.git
+   git clone https://github.com/1234atulkashyap/Project.git
 
 2. Navigate to the project directory:
-    cd recent-movies
+    cd Project
 
 3. Install the dependencies:
     npm install
