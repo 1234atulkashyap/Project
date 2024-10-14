@@ -1,6 +1,6 @@
 # Recent Movies
 
-A web application developed using React, Javascript, and Tailwind CSS, shadcn library featuring user authentication with login and signup functionalities, a responsive dashboard, and toast notifications for user feedback.
+A web application developed using React, Javascript, and Tailwind CSS, shadcn library  and formik for form handling, featuring user authentication with login and signup functionalities, a responsive dashboard, and toast notifications for user feedback.
 
 ## Table of Contents
 
